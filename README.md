@@ -42,3 +42,5 @@ powerline (?)
 https://github.com/Lokaltog/powerline
 https://github.com/Lokaltog/powerline-fonts
 
+Basically, Jeff Knupp's blog entry:
+http://www.jeffknupp.com/blog/2013/12/04/my-development-environment-for-python/
